@@ -1,0 +1,1 @@
+# plugins-vanilla-pdf-embed
